@@ -10,7 +10,7 @@ from queue import Queue, QueueItem
 import time
 import additional
 
-__author__ = "Minh Trang Nguyen 45270532"
+__author__ = ""
 
 class QueueApp:
     """
